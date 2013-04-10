@@ -15,6 +15,6 @@ version, package_name
 
 # Recipes
 The default recipe installs the sdbport rpm package which contains the sdbport ruby gem and dependant gems.
- Author
+# Author
 
 Author:: Intuit, Inc. (<chad_cloes@intuit.com>)
