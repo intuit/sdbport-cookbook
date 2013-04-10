@@ -1,13 +1,12 @@
 # sdbport cookbook
 
-This cookbook installs the redis server found here http://redis.io/
+This cookbook installs the sdbport gem
 
 # Requirements
 NA
 
 # Usage
-
-Redis is an open source, BSD licensed, advanced key-value store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets and sorted sets.
+Gem which enables import and export of AWS SimpleDB domains.
 
 # Attributes
 The following attributes are configurable currently:
