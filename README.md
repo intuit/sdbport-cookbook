@@ -1,6 +1,6 @@
 # sdbport cookbook
 
-This cookbook installs the sdbport gem
+This cookbook installs the sdbport rpm 
 
 # Requirements
 NA
